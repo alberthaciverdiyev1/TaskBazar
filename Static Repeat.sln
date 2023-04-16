@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Repeat", "Static Repeat\Static Repeat.csproj", "{2B1F5F4C-84EA-4BEC-841B-AF9522B9A17B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1F5F4C-84EA-4BEC-841B-AF9522B9A17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1F5F4C-84EA-4BEC-841B-AF9522B9A17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1F5F4C-84EA-4BEC-841B-AF9522B9A17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1F5F4C-84EA-4BEC-841B-AF9522B9A17B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F08F28B-0788-4156-87BE-A388D7A572F4}
+	EndGlobalSection
+EndGlobal
